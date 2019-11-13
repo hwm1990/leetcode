@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+public class SlidingWindow {
     public int lengthOfLongestSubstring(String s) {
         int ans = 0;
         int n = s.length();
